@@ -1,3 +1,3 @@
-# my_git_test
+# SmartGlasses
 THUEE hardware program: smart glasses
 by Wang Jie, Xu Kaiyu, Shi Ruijie
